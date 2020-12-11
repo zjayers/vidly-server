@@ -1,8 +1,7 @@
 # Vidly-Server
-[![GitHub Release](https://img.shields.io/github/release/zjayers/vidly-server.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/vidly-server.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/vidly-server.svg?style=flat)](https://github.com/zjayers/vidly-server/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/vidly-server.svg?style=flat)](https://github.com/zjayers/vidly-server/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/vidly-server.svg?maxAge=25000)](https://github.com/zjayers/vidly-server/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/vidly-server/blob/master/LICENSEs)
 
 ## Description
 
